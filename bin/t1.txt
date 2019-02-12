@@ -1,0 +1,874 @@
+Loading file...  file format version 1.4 encrypted(false)
+LOAD Host: 192.168.3.150 Port: 5900 SecType: 2
+Launch Host: 192.168.3.150:5900
+before init
+after init
+is v null false
+flag was true
+before connect and authentricate
+the size of the list is 1
+192.168.3.150 Status: Initializing...
+success is true
+LOAD Host: 192.168.3.150 Port: 5901 SecType: 2
+Launch Host: 192.168.3.150:5901
+before init
+192.168.3.150 Status: Cc to 192.168.3.150, port 5900...
+before the bad guy
+192.168.3.150 Status: Connected to server
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.150 Port: 5902 SecType: 2
+before connect and authentricate
+192.168.3.150 Status: Initializing...
+192.168.3.150 Status: RFB server supports protocol version 3.3
+192.168.3.150 Status: Cc to 192.168.3.150, port 5901...
+Launch Host: 192.168.3.150:5902
+before init
+before the bad guy
+192.168.3.150 Status: Using RFB protocol version 3.3
+192.168.3.150 Status: Performing standard VNC authentication
+192.168.3.150 Status: Connected to server
+192.168.3.150 Status: RFB server supports protocol version 3.3
+192.168.3.150 Status: Using RFB protocol version 3.3
+192.168.3.150 Status: Performing standard VNC authentication
+VNC authentication: success
+VNC authentication: success
+after init
+is v null false
+flag was true
+the size of the list is 3
+success is true
+LOAD Host: 192.168.3.150 Port: 5903 SecType: 2
+Launch Host: 192.168.3.150:5903
+before init
+before connect and authentricate
+192.168.3.150 Status: Initializing...
+Desktop name is chipsvm
+Desktop size is 1596 x 722
+Using Tight/ZRLE encodings
+Desktop name is chipsvm
+Desktop size is 240 x 268
+Using Tight/ZRLE encodings
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+192.168.3.150 Status: Cc to 192.168.3.150, port 5902...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.150 Port: 5904 SecType: 2
+Launch Host: 192.168.3.150:5904
+before init
+before connect and authentricate
+192.168.3.150 Status: Initializing...
+192.168.3.150 Status: Cc to 192.168.3.150, port 5903...
+before the bad guy
+Warning: Java 2D API is not available
+java.lang.NullPointerException
+RFB socket closed
+192.168.3.150 Status: java.lang.NullPointerException
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.150 Port: 5905 SecType: 2
+Launch Host: 192.168.3.150:5905
+before init
+before connect and authentricate
+192.168.3.150 Status: Initializing...
+192.168.3.150 Status: Cc to 192.168.3.150, port 5904...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.150 Port: 5906 SecType: 2
+Launch Host: 192.168.3.150:5906
+before init
+before connect and authentricate
+192.168.3.150 Status: Initializing...
+192.168.3.150 Status: Cc to 192.168.3.150, port 5905...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.150 Port: 5907 SecType: 2
+Launch Host: 192.168.3.150:5907
+before init
+before connect and authentricate
+192.168.3.150 Status: Initializing...
+192.168.3.150 Status: Cc to 192.168.3.150, port 5906...
+before the bad guy
+Throughput 20065 kbit/s - changing to Hextile encoding
+after init
+before connect and authentricate
+is v null false
+192.168.3.150 Status: Initializing...
+success is true
+192.168.3.150 Status: Cc to 192.168.3.150, port 5907...
+LOAD Host: 192.168.3.151 Port: 5900 SecType: 2
+before the bad guy
+Launch Host: 192.168.3.151:5900
+before init
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.151 Port: 5901 SecType: 2
+Launch Host: 192.168.3.151:5901
+before init
+before connect and authentricate
+192.168.3.151 Status: Initializing...
+192.168.3.151 Status: Cc to 192.168.3.151, port 5900...
+before the bad guy
+192.168.3.151 Status: Connected to server
+192.168.3.151 Status: RFB server supports protocol version 3.3
+192.168.3.151 Status: Using RFB protocol version 3.3
+192.168.3.151 Status: Performing standard VNC authentication
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.151 Port: 5902 SecType: 2
+Launch Host: 192.168.3.151:5902
+before init
+before connect and authentricate
+192.168.3.151 Status: Initializing...
+192.168.3.151 Status: Cc to 192.168.3.151, port 5901...
+before the bad guy
+VNC authentication: success
+192.168.3.151 Status: Connected to server
+Desktop name is popcornvm
+Desktop size is 1596 x 722
+Using Tight/ZRLE encodings
+192.168.3.151 Status: RFB server supports protocol version 3.3
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+192.168.3.151 Status: Using RFB protocol version 3.3
+Warning: Java 2D API is not available
+java.lang.NullPointerException
+192.168.3.151 Status: Performing standard VNC authentication
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.151 Port: 5903 SecType: 2
+Launch Host: 192.168.3.151:5903
+before init
+VNC authentication: success
+RFB socket closed
+192.168.3.151 Status: java.lang.NullPointerException
+Desktop name is popcornvm
+Desktop size is 240 x 268
+Using Tight/ZRLE encodings
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+before connect and authentricate
+192.168.3.151 Status: Initializing...
+Warning: Java 2D API is not available
+java.lang.NullPointerException
+192.168.3.151 Status: Cc to 192.168.3.151, port 5902...
+before the bad guy
+RFB socket closed
+192.168.3.151 Status: java.lang.NullPointerException
+after init
+is v null false
+success is true
+before connect and authentricate
+LOAD Host: 192.168.3.151 Port: 5904 SecType: 2
+192.168.3.151 Status: Initializing...
+Launch Host: 192.168.3.151:5904
+before init
+192.168.3.151 Status: Cc to 192.168.3.151, port 5903...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.151 Port: 5905 SecType: 2
+Launch Host: 192.168.3.151:5905
+before init
+before connect and authentricate
+192.168.3.151 Status: Initializing...
+192.168.3.151 Status: Cc to 192.168.3.151, port 5904...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.151 Port: 5906 SecType: 2
+Launch Host: 192.168.3.151:5906
+before init
+before connect and authentricate
+192.168.3.151 Status: Initializing...
+192.168.3.151 Status: Cc to 192.168.3.151, port 5905...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.151 Port: 5907 SecType: 2
+Launch Host: 192.168.3.151:5907
+before init
+before connect and authentricate
+192.168.3.151 Status: Initializing...
+192.168.3.151 Status: Cc to 192.168.3.151, port 5906...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.252 Port: 5900 SecType: 2
+Launch Host: 192.168.3.252:5900
+before init
+before connect and authentricate
+192.168.3.151 Status: Initializing...
+192.168.3.151 Status: Cc to 192.168.3.151, port 5907...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.252 Port: 5901 SecType: 2
+Launch Host: 192.168.3.252:5901
+before init
+before connect and authentricate
+192.168.3.252 Status: Initializing...
+192.168.3.252 Status: Cc to 192.168.3.252, port 5900...
+before the bad guy
+192.168.3.252 Status: Connected to server
+false00Network error: could not connect to server: 192.168.3.150:5902
+false00Network error: could not connect to server: 192.168.3.150:5903
+192.168.3.252 Status: RFB server supports protocol version 3.3
+192.168.3.252 Status: Using RFB protocol version 3.3
+192.168.3.252 Status: Performing standard VNC authentication
+VNC authentication: success
+after init
+is v null false
+flag was true
+192.168.3.150 Status: false00Network error: could not connect to server: 192.168.3.150:5902
+the size of the list is 18
+success is true
+LOAD Host: 192.168.3.252 Port: 5902 SecType: 2
+Launch Host: 192.168.3.252:5902
+before init
+before connect and authentricate
+192.168.3.252 Status: Initializing...
+Desktop name is canistervm
+Desktop size is 1596 x 722
+Using Tight/ZRLE encodings
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+Warning: Java 2D API is not available
+java.lang.NullPointerException
+false00Network error: could not connect to server: 192.168.3.150:5904
+192.168.3.150 Status: false00Network error: could not connect to server: 192.168.3.150:5903
+192.168.3.150 Status: false00Network error: could not connect to server: 192.168.3.150:5904
+RFB socket closed
+192.168.3.252 Status: java.lang.NullPointerException
+192.168.3.252 Status: Cc to 192.168.3.252, port 5901...
+before the bad guy
+192.168.3.252 Status: Connected to server
+false00Network error: could not connect to server: 192.168.3.150:5905
+192.168.3.252 Status: RFB server supports protocol version 3.3
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.252 Port: 5903 SecType: 2
+Launch Host: 192.168.3.252:5903
+before init
+192.168.3.252 Status: Using RFB protocol version 3.3
+192.168.3.150 Status: false00Network error: could not connect to server: 192.168.3.150:5905
+false00Network error: could not connect to server: 192.168.3.150:5906
+before connect and authentricate
+192.168.3.252 Status: Initializing...
+192.168.3.252 Status: Performing standard VNC authentication
+192.168.3.252 Status: Cc to 192.168.3.252, port 5902...
+before the bad guy
+VNC authentication: success
+after init
+is v null false
+flag was true
+Desktop name is canistervm
+Desktop size is 240 x 268
+Using Tight/ZRLE encodings
+before connect and authentricate
+192.168.3.252 Status: Initializing...
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+the size of the list is 20
+success is true
+LOAD Host: 192.168.3.252 Port: 5904 SecType: 2
+Launch Host: 192.168.3.252:5904
+before init
+192.168.3.150 Status: false00Network error: could not connect to server: 192.168.3.150:5906
+192.168.3.252 Status: Cc to 192.168.3.252, port 5903...
+false00Network error: could not connect to server: 192.168.3.150:5907
+192.168.3.150 Status: false00Network error: could not connect to server: 192.168.3.150:5907
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.252 Port: 5905 SecType: 2
+Launch Host: 192.168.3.252:5905
+before init
+before connect and authentricate
+192.168.3.252 Status: Initializing...
+192.168.3.252 Status: Cc to 192.168.3.252, port 5904...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.252 Port: 5906 SecType: 2
+Launch Host: 192.168.3.252:5906
+before init
+before connect and authentricate
+192.168.3.252 Status: Initializing...
+192.168.3.252 Status: Cc to 192.168.3.252, port 5905...
+before the bad guy
+Throughput 20000 kbit/s - changing to Hextile encoding
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.252 Port: 5907 SecType: 2
+Launch Host: 192.168.3.252:5907
+before init
+before connect and authentricate
+192.168.3.252 Status: Initializing...
+192.168.3.252 Status: Cc to 192.168.3.252, port 5906...
+false00Network error: could not connect to server: 192.168.3.151:5902
+before the bad guy
+false00Network error: could not connect to server: 192.168.3.151:5903
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5900 SecType: 2
+Launch Host: 192.168.3.12:5900
+before init
+192.168.3.151 Status: false00Network error: could not connect to server: 192.168.3.151:5902
+192.168.3.151 Status: false00Network error: could not connect to server: 192.168.3.151:5903
+before connect and authentricate
+192.168.3.252 Status: Initializing...
+192.168.3.252 Status: Cc to 192.168.3.252, port 5907...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5901 SecType: 2
+Launch Host: 192.168.3.12:5901
+before init
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5900...
+before the bad guy
+false00Network error: could not connect to server: 192.168.3.151:5904
+false00Network error: could not connect to server: 192.168.3.151:5905
+192.168.3.151 Status: false00Network error: could not connect to server: 192.168.3.151:5904
+false00Network error: could not connect to server: 192.168.3.151:5906
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5902 SecType: 2
+Launch Host: 192.168.3.12:5902
+before init
+192.168.3.151 Status: false00Network error: could not connect to server: 192.168.3.151:5905
+192.168.3.151 Status: false00Network error: could not connect to server: 192.168.3.151:5906
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5901...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5903 SecType: 2
+Launch Host: 192.168.3.12:5903
+before init
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5902...
+before the bad guy
+false00Network error: could not connect to server: 192.168.3.151:5907
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5904 SecType: 2
+Launch Host: 192.168.3.12:5904
+before init
+192.168.3.151 Status: false00Network error: could not connect to server: 192.168.3.151:5907
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5903...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5905 SecType: 2
+Launch Host: 192.168.3.12:5905
+before init
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5904...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5906 SecType: 2
+Launch Host: 192.168.3.12:5906
+before init
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5905...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5907 SecType: 2
+Launch Host: 192.168.3.12:5907
+before init
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5906...
+before the bad guy
+false00Network error: could not connect to server: 192.168.3.252:5902
+192.168.3.252 Status: false00Network error: could not connect to server: 192.168.3.252:5902
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5908 SecType: 2
+Launch Host: 192.168.3.12:5908
+before init
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5907...
+before the bad guy
+false00Network error: could not connect to server: 192.168.3.252:5903
+false00Network error: could not connect to server: 192.168.3.252:5904
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5909 SecType: 2
+Launch Host: 192.168.3.12:5909
+before init
+192.168.3.252 Status: false00Network error: could not connect to server: 192.168.3.252:5903
+false00Network error: could not connect to server: 192.168.3.252:5905
+192.168.3.252 Status: false00Network error: could not connect to server: 192.168.3.252:5904
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5908...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.12 Port: 5910 SecType: 2
+Launch Host: 192.168.3.12:5910
+before init
+192.168.3.252 Status: false00Network error: could not connect to server: 192.168.3.252:5905
+false00Network error: could not connect to server: 192.168.3.252:5906
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5909...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5900 SecType: 2
+Launch Host: 192.168.3.14:5900
+before init
+192.168.3.252 Status: false00Network error: could not connect to server: 192.168.3.252:5906
+before connect and authentricate
+192.168.3.12 Status: Initializing...
+192.168.3.12 Status: Cc to 192.168.3.12, port 5910...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5901 SecType: 2
+Launch Host: 192.168.3.14:5901
+before init
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+192.168.3.14 Status: Cc to 192.168.3.14, port 5900...
+before the bad guy
+192.168.3.14 Status: Connected to server
+false00Network error: could not connect to server: 192.168.3.252:5907
+false00Network error: could not connect to server: 192.168.3.12:5900
+192.168.3.252 Status: false00Network error: could not connect to server: 192.168.3.252:5907
+192.168.3.14 Status: RFB server supports protocol version 3.3
+192.168.3.14 Status: Using RFB protocol version 3.3
+192.168.3.14 Status: Performing standard VNC authentication
+Error: VNC authentication: failed
+192.168.3.12 Status: false00Network error: could not connect to server: 192.168.3.12:5900
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5902 SecType: 2
+Launch Host: 192.168.3.14:5902
+before init
+RFB socket closed
+192.168.3.14 Status: Error: VNC authentication: failed
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+192.168.3.14 Status: Cc to 192.168.3.14, port 5901...
+before the bad guy
+192.168.3.14 Status: Connected to server
+192.168.3.14 Status: RFB server supports protocol version 3.3
+192.168.3.14 Status: Using RFB protocol version 3.3
+192.168.3.14 Status: Performing standard VNC authentication
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5903 SecType: 2
+Launch Host: 192.168.3.14:5903
+before init
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+192.168.3.14 Status: Cc to 192.168.3.14, port 5902...
+before the bad guy
+VNC authentication: success
+true00Network error: could not connect to server: 192.168.3.12:5901
+false00Network error: could not connect to server: 192.168.3.12:5902
+192.168.3.12 Status: true00Network error: could not connect to server: 192.168.3.12:5901
+Desktop name is shippingsouth
+Desktop size is 240 x 268
+Using Tight/ZRLE encodings
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+Warning: Java 2D API is not available
+java.lang.NullPointerException
+192.168.3.12 Status: false00Network error: could not connect to server: 192.168.3.12:5902
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5904 SecType: 2
+Launch Host: 192.168.3.14:5904
+before init
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+RFB socket closed
+192.168.3.14 Status: java.lang.NullPointerException
+false00Network error: could not connect to server: 192.168.3.12:5903
+192.168.3.14 Status: Cc to 192.168.3.14, port 5903...
+before the bad guy
+192.168.3.14 Status: Connected to server
+192.168.3.14 Status: RFB server supports protocol version 3.3
+192.168.3.14 Status: Using RFB protocol version 3.3
+192.168.3.14 Status: Performing standard VNC authentication
+192.168.3.12 Status: false00Network error: could not connect to server: 192.168.3.12:5903
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5905 SecType: 2
+Launch Host: 192.168.3.14:5905
+before init
+VNC authentication: success
+true00Network error: could not connect to server: 192.168.3.12:5904
+false00Network error: could not connect to server: 192.168.3.12:5905
+192.168.3.12 Status: true00Network error: could not connect to server: 192.168.3.12:5904
+Desktop name is shippingsouth
+Desktop size is 240 x 268
+Using Tight/ZRLE encodings
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+Warning: Java 2D API is not available
+java.lang.NullPointerException
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+192.168.3.14 Status: Cc to 192.168.3.14, port 5904...
+before the bad guy
+192.168.3.14 Status: Connected to server
+192.168.3.14 Status: RFB server supports protocol version 3.3
+after init
+192.168.3.14 Status: Using RFB protocol version 3.3
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5906 SecType: 2
+Launch Host: 192.168.3.14:5906
+before init
+false00Network error: could not connect to server: 192.168.3.12:5906
+192.168.3.14 Status: Performing standard VNC authentication
+192.168.3.12 Status: false00Network error: could not connect to server: 192.168.3.12:5905
+192.168.3.12 Status: false00Network error: could not connect to server: 192.168.3.12:5906
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+192.168.3.14 Status: Cc to 192.168.3.14, port 5905...
+before the bad guy
+VNC authentication: success
+true00Network error: could not connect to server: 192.168.3.12:5907
+RFB socket closed
+192.168.3.14 Status: java.lang.NullPointerException
+Desktop name is shippingsouth
+Desktop size is 240 x 268
+Using Tight/ZRLE encodings
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+Warning: Java 2D API is not available
+java.lang.NullPointerException
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5907 SecType: 2
+Launch Host: 192.168.3.14:5907
+before init
+192.168.3.12 Status: true00Network error: could not connect to server: 192.168.3.12:5907
+RFB socket closed
+192.168.3.14 Status: java.lang.NullPointerException
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+192.168.3.14 Status: Cc to 192.168.3.14, port 5906...
+before the bad guy
+192.168.3.14 Status: Connected to server
+192.168.3.14 Status: RFB server supports protocol version 3.3
+192.168.3.14 Status: Using RFB protocol version 3.3
+192.168.3.14 Status: Performing standard VNC authentication
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5908 SecType: 2
+Launch Host: 192.168.3.14:5908
+before init
+VNC authentication: success
+true00Network error: could not connect to server: 192.168.3.12:5908
+before connect and authentricate
+Desktop name is shippingsouth
+192.168.3.14 Status: Initializing...
+Desktop size is 240 x 268
+Using Tight/ZRLE encodings
+the laypout is java.awt.GridBagLayout
+the laypout is java.awt.GridBagLayout
+192.168.3.14 Status: Cc to 192.168.3.14, port 5907...
+before the bad guy
+Warning: Java 2D API is not available
+java.lang.NullPointerException
+192.168.3.12 Status: true00Network error: could not connect to server: 192.168.3.12:5908
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5909 SecType: 2
+Launch Host: 192.168.3.14:5909
+before init
+RFB socket closed
+192.168.3.14 Status: java.lang.NullPointerException
+false00Network error: could not connect to server: 192.168.3.12:5909
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+192.168.3.14 Status: Cc to 192.168.3.14, port 5908...
+before the bad guy
+192.168.3.12 Status: false00Network error: could not connect to server: 192.168.3.12:5909
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.14 Port: 5910 SecType: 2
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+Launch Host: 192.168.3.14:5910
+192.168.3.14 Status: Cc to 192.168.3.14, port 5909...
+before init
+before the bad guy
+false00Network error: could not connect to server: 192.168.3.12:5910
+192.168.3.12 Status: false00Network error: could not connect to server: 192.168.3.12:5910
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5900 SecType: 2
+Launch Host: 192.168.3.205:5900
+before init
+before connect and authentricate
+192.168.3.14 Status: Initializing...
+192.168.3.14 Status: Cc to 192.168.3.14, port 5910...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5901 SecType: 2
+Launch Host: 192.168.3.205:5901
+before init
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5900...
+before the bad guy
+false00Network error: could not connect to server: 192.168.3.14:5902
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5902 SecType: 2
+Launch Host: 192.168.3.205:5902
+before init
+192.168.3.14 Status: false00Network error: could not connect to server: 192.168.3.14:5902
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5901...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5903 SecType: 2
+Launch Host: 192.168.3.205:5903
+before init
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5902...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5904 SecType: 2
+Launch Host: 192.168.3.205:5904
+before init
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5903...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5905 SecType: 2
+Launch Host: 192.168.3.205:5905
+before init
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5904...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5906 SecType: 2
+Launch Host: 192.168.3.205:5906
+before init
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5905...
+false00Network error: could not connect to server: 192.168.3.14:5905
+before the bad guy
+192.168.3.14 Status: false00Network error: could not connect to server: 192.168.3.14:5905
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5907 SecType: 2
+Launch Host: 192.168.3.205:5907
+before init
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5906...
+before the bad guy
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5908 SecType: 2
+Launch Host: 192.168.3.205:5908
+before init
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+false00Network error: could not connect to server: 192.168.3.14:5907
+192.168.3.205 Status: Cc to 192.168.3.205, port 5907...
+before the bad guy
+192.168.3.14 Status: false00Network error: could not connect to server: 192.168.3.14:5907
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5909 SecType: 2
+Launch Host: 192.168.3.205:5909
+before init
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5908...
+before the bad guy
+false00Network error: could not connect to server: 192.168.3.14:5908
+false00Network error: could not connect to server: 192.168.3.14:5909
+192.168.3.14 Status: false00Network error: could not connect to server: 192.168.3.14:5908
+after init
+is v null false
+success is true
+LOAD Host: 192.168.3.205 Port: 5910 SecType: 2
+Launch Host: 192.168.3.205:5910
+before init
+192.168.3.14 Status: false00Network error: could not connect to server: 192.168.3.14:5909
+false00Network error: could not connect to server: 192.168.3.14:5910
+192.168.3.14 Status: false00Network error: could not connect to server: 192.168.3.14:5910
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5909...
+before the bad guy
+false00Network error: could not connect to server: 192.168.3.205:5900
+after init
+is v null false
+success is true
+before connect and authentricate
+192.168.3.205 Status: Initializing...
+192.168.3.205 Status: Cc to 192.168.3.205, port 5910...
+before the bad guy
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5900
+false00Network error: could not connect to server: 192.168.3.205:5901
+false00Network error: could not connect to server: 192.168.3.205:5902
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5901
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5902
+false00Network error: could not connect to server: 192.168.3.205:5903
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5903
+false00Network error: could not connect to server: 192.168.3.205:5904
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5904
+false00Network error: could not connect to server: 192.168.3.205:5905
+false00Network error: could not connect to server: 192.168.3.205:5906
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5905
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5906
+false00Network error: could not connect to server: 192.168.3.205:5907
+false00Network error: could not connect to server: 192.168.3.205:5908
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5907
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5908
+false00Network error: could not connect to server: 192.168.3.205:5909
+false00Network error: could not connect to server: 192.168.3.205:5910
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5909
+192.168.3.205 Status: false00Network error: could not connect to server: 192.168.3.205:5910
+Closing window
+Disconnect
+RFB socket closed
+Disconnect
+RFB thread finished
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+RFB socket closed
+Disconnect
+RFB thread finished
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect
+Disconnect

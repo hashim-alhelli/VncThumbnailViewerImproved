@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/44/trunk/VncThumbnailViewer/Sources
+END
+HTTPConnectSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/HTTPConnectSocketFactory.java
+END
+ButtonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/ButtonPanel.java
+END
+CapabilityInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/CapabilityInfo.java
+END
+RfbProto.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/RfbProto.java
+END
+HTTPConnectSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/HTTPConnectSocket.java
+END
+HostsFilePasswordDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/HostsFilePasswordDialog.java
+END
+ZlibInStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/ZlibInStream.java
+END
+VncCanvas2.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/VncCanvas2.java
+END
+AddHostDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/AddHostDialog.java
+END
+DesCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/DesCipher.java
+END
+OptionsFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/OptionsFrame.java
+END
+VncViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/42/trunk/VncThumbnailViewer/Sources/VncViewer.java
+END
+SessionRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/SessionRecorder.java
+END
+ClipboardFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/ClipboardFrame.java
+END
+VncThumbnailViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/44/trunk/VncThumbnailViewer/Sources/VncThumbnailViewer.java
+END
+ReloginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/ReloginPanel.java
+END
+SocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/SocketFactory.java
+END
+MemInStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/MemInStream.java
+END
+AuthPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/AuthPanel.java
+END
+InStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/InStream.java
+END
+VncCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/VncCanvas.java
+END
+RecordingFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/RecordingFrame.java
+END
+DiffieHellman.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/VncThumbnailViewer/Sources/DiffieHellman.java
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/20/trunk/VncThumbnailViewer/Sources/manifest.mf
+END
+VncViewersList.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/VncViewersList.java
+END
+CapsContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/41/trunk/VncThumbnailViewer/Sources/CapsContainer.java
+END
