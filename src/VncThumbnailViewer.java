@@ -89,7 +89,7 @@ public class VncThumbnailViewer extends Frame
     // VncThumbnailViewer.viewersList.loadHosts2("host" , "");// enable this if you want file to load on startup
 
 	try {
-		System.out.println("Before going to the timer");
+//		System.out.println("Before going to the timer");
 		timer_Start(6,true);
 	
 	} catch (InterruptedException e) {
@@ -174,7 +174,7 @@ public class VncThumbnailViewer extends Frame
     widthPerThumbnail = 0;
     heightPerThumbnail = 0;
 
-    setTitle("");//nov 21 2018
+    setTitle("");//Feb 2019
     addWindowListener(this);
     addComponentListener(this);
     addMouseListener(this);
@@ -511,7 +511,7 @@ public class VncThumbnailViewer extends Frame
     loadhostsMenuItem = new MenuItem("Load List of Hosts");
     savehostsMenuItem = new MenuItem("Save List of Hosts");
     exitMenuItem = new MenuItem("Exit");
-    auto_refresh_chk = new MenuItem("Auto Refresh");
+    //auto_refresh_chk = new MenuItem("Auto Refresh");
     restart_app = new MenuItem("Restart App");
     record_screen = new MenuItem("Start Recording");
     
@@ -519,17 +519,17 @@ public class VncThumbnailViewer extends Frame
     newhostMenuItem.addActionListener(this);
     loadhostsMenuItem.addActionListener(this);
     savehostsMenuItem.addActionListener(this);
-    auto_refresh_chk.addActionListener(this);
+   // auto_refresh_chk.addActionListener(this);
     exitMenuItem.addActionListener(this);
     restart_app.addActionListener(this);
     record_screen.addActionListener(this);
   //  ShowGroup.addActionListener(this);
     
     
-    fileMenu.add(auto_refresh_chk);
-    fileMenu.addSeparator();
+    //fileMenu.add(auto_refresh_chk);
+    //fileMenu.addSeparator();
 //    fileMenu.add(ShowGroup);
-    fileMenu.addSeparator();
+    //fileMenu.addSeparator();
     fileMenu.add(newhostMenuItem);
     fileMenu.addSeparator();
     fileMenu.add(loadhostsMenuItem);
@@ -592,7 +592,8 @@ public class VncThumbnailViewer extends Frame
   }
   
   // Window Listener Events:
-  public void windowClosing(WindowEvent evt) {
+  public void windowClosing(WindowEvent evt) 
+  {
    
 	 
 	  if(soloViewer.isShowing()) {//this is to close one frame at a time not the whole program
@@ -791,41 +792,36 @@ public class VncThumbnailViewer extends Frame
     /*
      * check for the auto refresh click
      */
- if(evt.getSource()==auto_refresh_chk){
-    	
-    	System.out.println(auto_refresh_chk.getLabel());
-    	if(auto_refresh_chk.getLabel().contains("ON")){//TURN OFF AUTO REFRESH
-    		
-    	//	setTitle("DJC Thumbnail Viewer");
-    		auto_refresh_chk.setLabel("Auto Refresh");
-    		timer.cancel();
-    		
-    	}
-    	else{//turn on the auto refresh
-    		
-    	
-    		auto_refresh_chk.setLabel(auto_refresh_chk.getLabel() + " Is ON");
-    		//
-    	
-    		
-    		try
-    		{
-    			
-    		String arr[] = {"seconds","minutes"};
-    		String timev[] = {"90","120","200"};
-    		boolean second_selection = true;// this is flag if the user specified the time in seconds
-    		Object time = JOptionPane.showInputDialog(null, "Please Select Amount...", "choose how many seconds", JOptionPane.QUESTION_MESSAGE, null,(String[])timev , "true");//returns value selected
-    		total_seconds = Integer.parseInt((String)time);
-    		timer_Start(Integer.parseInt((String)time),second_selection);		
-			} 
-    		catch (Exception e) 
-    		{
-			}
-
-    	}
-    	
-    }
-
+		/*
+		 * if(evt.getSource()==auto_refresh_chk){
+		 * 
+		 * //System.out.println(auto_refresh_chk.getLabel());
+		 * if(auto_refresh_chk.getLabel().contains("ON")){//TURN OFF AUTO REFRESH
+		 * 
+		 * // setTitle("DJC Thumbnail Viewer");
+		 * auto_refresh_chk.setLabel("Auto Refresh"); timer.cancel();
+		 * 
+		 * } else{//turn on the auto refresh
+		 * 
+		 * 
+		 * auto_refresh_chk.setLabel(auto_refresh_chk.getLabel() + " Is ON"); //
+		 * 
+		 * 
+		 * try {
+		 * 
+		 * String arr[] = {"seconds","minutes"}; String timev[] = {"90","120","200"};
+		 * boolean second_selection = true;// this is flag if the user specified the
+		 * time in seconds Object time = JOptionPane.showInputDialog(null,
+		 * "Please Select Amount...", "choose how many seconds",
+		 * JOptionPane.QUESTION_MESSAGE, null,(String[])timev , "true");//returns value
+		 * selected total_seconds = Integer.parseInt((String)time);
+		 * timer_Start(Integer.parseInt((String)time),second_selection); } catch
+		 * (Exception e) { }
+		 * 
+		 * }
+		 * 
+		 * }
+		 */
   }
   
   
@@ -926,7 +922,8 @@ public class VncThumbnailViewer extends Frame
 	      String compname = e.getAttribute("CompName", null);
 	      String comment = e.getAttribute("Comment", null);
 	            
-	      if(isEncrypted) {
+	      if(isEncrypted) 
+	      {
 	        if(password != null)
 	          password = DesCipher.decryptData(password, encPass);
 	        if(username != null)
