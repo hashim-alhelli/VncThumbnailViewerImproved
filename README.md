@@ -17,7 +17,7 @@ How to use the program:
 1) click on file
 2) click on load host file
 3) navigate to the location of the host file and double click on it.
-4) you can sort the thumbnails by the grp name using the view menue and choosing the grp.
+4) you can sort the thumbnails by the grp name using the view menu and choosing the grp name.
 5) enjoy.
 
 New feutures added:
